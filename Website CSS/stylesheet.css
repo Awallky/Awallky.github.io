@@ -33,7 +33,7 @@ div a {
 }
  
 body {   
-   background: url('../../Images/uk_logo2.jpg') no-repeat center center;  
+   background: url('./../Images/uk_logo2.jpg') no-repeat center center;  
    min-height: 200px;   
    background-size: cover;
 }
@@ -78,8 +78,7 @@ div img {
 }
 #bod {   
    padding:10px;
-   padding-bottom:200px;   /* Height of the footer */   
-   color: black;
+   padding-bottom:200px;   /* Height of the footer */      
 }
 .foot {
    position:absolute;
