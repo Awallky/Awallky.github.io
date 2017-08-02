@@ -57,7 +57,8 @@
  
 body {      
    min-height: 100%;   
-   background-size: cover;   
+   background-size: cover;
+   background: url('./../Images/grey_checkered_background.jpg') no-repeat center center;  
 }
 
 .email_link{
@@ -101,8 +102,7 @@ div img {
    padding:10px;
    padding-bottom:200px;   /* Height of the footer */   
    color: black;
-   background-color: white;
-   background: url('./../Images/grey_checkered_background.jpg') no-repeat center center;  
+   background-color: white;   
    min-height: 200px;
 }
 
