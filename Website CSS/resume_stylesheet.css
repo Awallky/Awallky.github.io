@@ -102,6 +102,7 @@ div img {
    padding-bottom:200px;   /* Height of the footer */   
    color: black;
    background-color: white;
+   background: url('./../Images/grey_checkered_background.jpg') no-repeat center center;  
    min-height: 200px;
 }
 
