@@ -6,9 +6,6 @@
  */
 /* FONT PATH
  * -------------------------- */
- table{
-	 
- }
 .cap{
 	color: black;	
 } 
@@ -55,7 +52,8 @@
 	text-align: center;
 }
  
-body {      
+body {
+   background: url('./../Images/grey_checkered_background.jpg') no-repeat center center;
    min-height: 100%;   
    background-size: cover;   
 }
