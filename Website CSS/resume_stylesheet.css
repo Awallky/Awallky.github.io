@@ -43,6 +43,10 @@
 .class_proj6{
 	min-height: 275px;
 }
+
+.extra_projects{
+	min-height: 480px;
+}
  
 .bolded{
 	 font-weight: bold;
@@ -53,9 +57,9 @@
 }
  
 body {
-   background: url('./../Images/grey_checkered_background.jpg') no-repeat center center;
+   background: url('./../Images/grey_checkered_background.jpg') no-repeat center center;  	
    min-height: 100%;   
-   background-size: cover;   
+   background-size: cover;      
 }
 
 .email_link{
